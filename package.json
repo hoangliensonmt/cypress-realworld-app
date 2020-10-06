@@ -12,7 +12,8 @@
     "url": "https://github.com/cypress-io/cypress-realworld-app/issues"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=12",
+    "yarn": "1.x"
   },
   "dependencies": {
     "@babel/cli": "7.11.6",
